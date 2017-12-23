@@ -11,5 +11,8 @@
     "workflow"
   ],
   "author": "Duck,Lillian,Luke",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^3.1.0"
+  }
 }
