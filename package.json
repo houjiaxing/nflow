@@ -13,6 +13,7 @@
   "author": "Duck,Lillian,Luke",
   "license": "MIT",
   "dependencies": {
-    "uuid": "^3.1.0"
+    "uuid": "^3.1.0",
+    "mysql2": "^1.5.1"
   }
 }
