@@ -2,7 +2,7 @@
   "name": "workflow",
   "version": "1.0.0",
   "description": "基于nodejs的工作流引擎",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "test"
   },
